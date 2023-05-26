@@ -1,6 +1,6 @@
 # weather-app-task
 
-Spring Boot app providing weather information form external API.
+Spring Boot app providing weather information from external API.
 
 ## Running the Application
 
@@ -25,9 +25,9 @@ Note: `maven`, `docker` and `docker compose` must be installed and the `docker d
 
 - In order to test api import file -> `weather-app-task.postman_collection.json` into Postman.
 
-## Accessing PostgreSQL database
+## Accessing PostgreSQL database container
 
-Accessing database allows to check the contents of database after api testing.
+Accessing database allows to check the contents of database after API testing.
 
 - In new command prompt run:
 
